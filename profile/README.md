@@ -1,5 +1,5 @@
 # 🙂 Dear friends of Checkmk! 👋
 
-↩ We renamed our organization to [Checkmk](https://github.com/Checkmk). 
+↩ Tribe29 is now Checkmk. 
 
-Please find us there 👋
+👋 Looking forward to seeing you in our new github organization: [Checkmk](https://github.com/Checkmk)
